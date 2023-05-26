@@ -1,5 +1,6 @@
 # Update in progress
 
+```
 @article{vishwakarma2023reliable,
   title={Reliable and secure memristor-based chaotic communication against eavesdroppers and untrusted foundries},
   author={Vishwakarma, Rahul and Monani, Ravi and Hedayatipour, Ava and Rezaei, Amin},
@@ -31,5 +32,5 @@
   doi          = {10.5281/zenodo.7972950},
   url          = {https://doi.org/10.5281/zenodo.7972950}
 }
-
+```
 
