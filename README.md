@@ -24,8 +24,7 @@
 
 
 @proceedings{vishwakarma_rahul_2022_7972950,
-  title        = {{Power of Chaos: Long-term Security for Post- 
-                   quantum Era}},
+  title        = {{Power of Chaos: Long-term Security for Post-quantum Era}},
   year         = 2022,
   publisher    = {Zenodo},
   month        = sep,
