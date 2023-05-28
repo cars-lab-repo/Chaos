@@ -5,7 +5,7 @@ Vivado: 2020.1 </br>
 LTSpice for Windows x64: 17.1.8 </br>
 NI Multisim: 14.3 </br>
 
-
+# Citation
 ```
 @article{vishwakarma2023reliable,
   title={Reliable and secure memristor-based chaotic communication against eavesdroppers and untrusted foundries},
