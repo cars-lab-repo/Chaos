@@ -16,7 +16,7 @@ NI Multisim: 14.3 </br>
   pages={2},
   year={2023},
   publisher={Springer}
-  do{10.1007/s43926-023-00029-2}
+  doi={10.1007/s43926-023-00029-2}
 }
 
 @INPROCEEDINGS{Chaos-Conference-2023,
