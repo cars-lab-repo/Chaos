@@ -22,8 +22,6 @@ This repository consists of various components related to the research paper and
 2. Open the memristor based chau chaotic transmitter and receiver in LTSpice and run the program. </br>
 3. You will observe the Double scroll attractor for the circuit. Furthermore, you can also observe the input and output signals. </br>
 
-![43926_2023_29_Fig10_HTML](https://github.com/cars-lab-repo/chaos/assets/64368687/81731c5b-58b5-42ce-89db-24de9b337ac3)
-
 ## Simulink model of chua based chaotic circuit. </br>
 1. 
 
