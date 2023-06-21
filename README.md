@@ -1,4 +1,5 @@
 # Reliable and secure memristor-based chaotic communication against eavesdroppers and untrusted foundries </br>
+This repository consists of various components related to the research paper and source code.  </br>
 
 # Contents </br>
 * `paper`: publihsed papers based on the source code.  </br>
