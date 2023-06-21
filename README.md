@@ -11,10 +11,10 @@ This repository consists of various components related to the research paper and
 # FPGA Board </br>
 * [Arty A7-100T: Artix-7 FPGA Development Board](https://digilent.com/shop/arty-a7-100t-artix-7-fpga-development-board/)
 # Software Version </br>
-MathWorks MATLAB® and Simulink®: R2020a </br>
-Vivado: 2020.1 </br>
-LTSpice for Windows x64: 17.1.8 </br>
-NI Multisim: 14.3 </br>
+* MathWorks MATLAB® and Simulink®: R2020a </br>
+* Vivado: 2020.1 </br>
+* LTSpice for Windows x64: 17.1.8 </br>
+* NI Multisim: 14.3 </br>
 
 # Citation
 ```
