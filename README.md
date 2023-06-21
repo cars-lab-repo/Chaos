@@ -18,7 +18,16 @@ This repository consists of various components related to the research paper and
 
 # Usage </br>
 ## LTSpice model of memristor based chaotic communication. </br>
-Copy the `memristor.subckt` from `src/LTSpice/memristor.subckt` to specific directory on local system. You can use the steps as memtioned [here](https://spiceman.net/ltspice-subcircuit-model-add/). </br> 
+1. Copy the `memristor.subckt` from `src/LTSpice/memristor.subckt` to specific directory on local system. You can use the steps as mentioned [here](https://spiceman.net/ltspice-subcircuit-model-add/). </br>
+2. Open the memristor based chau chaotic transmitter and receiver in LTSpice and run the program. </br>
+3. You will observe the Double scroll attractor for the circuit. Furthermore, you can also observe the input and output signals. </br>
+
+https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs43926-023-00029-2/MediaObjects/43926_2023_29_Fig10_HTML.png?as=webp![image](https://github.com/cars-lab-repo/chaos/assets/64368687/61791a1e-e1da-4e49-b3df-46a9bbdf2c28)
+
+
+## Simulink model of chua based chaotic circuit. </br>
+1. 
+
 # Citation
 ```
 @ARTICLE{Chaos-Journal-2023,
