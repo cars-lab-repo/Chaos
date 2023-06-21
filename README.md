@@ -16,6 +16,9 @@ This repository consists of various components related to the research paper and
 * LTSpice for Windows x64: 17.1.8 </br>
 * NI Multisim: 14.3 </br>
 
+# Usage </br>
+## LTSpice model of memristor based chaotic communication. </br>
+Copy the `memristor.subckt` from `src/LTSpice/memristor.subckt` to specific directory on local system. You can use the steps as memtioned [here](https://spiceman.net/ltspice-subcircuit-model-add/). </br> 
 # Citation
 ```
 @ARTICLE{Chaos-Journal-2023,
