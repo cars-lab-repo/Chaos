@@ -23,7 +23,11 @@ This repository consists of various components related to the research paper and
 3. You will observe the Double scroll attractor for the circuit. Furthermore, you can also observe the input and output signals. </br>
 
 ## Simulink model of chua based chaotic circuit. </br>
-1. 
+The folder contains the simulink based simulation for various chaotic circuits.  </br>
+1. Use the file `fx_v_TxRx_n7_imprv_final.slx` to run the simulation using Xilinx System Generator. make use you have already integrated XSG with Matlab (refer this [tutorial](https://docs.xilinx.com/r/en-US/ug897-vivado-sysgen-user/Installation). </br>
+2. This will create a Library for hardware co-simulation.
+3. Connect the FPGA Board with the System and run the file `fx_v_n7_working.slx`. This will simulate the Tx and Rx with the FPGA board (hardware co-simulation).
+4. validate the input and output signals. 
 
 # Citation
 ```
