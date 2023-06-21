@@ -8,6 +8,8 @@ This repository consists of various components related to the research paper and
 * `src/Simulink`: directory contains MATLAB SIMULINK files. These files enable the simulation of the chaotic circuit based on Chua's equation. Additionally, the directory includes files for hardware co-simulation using Xilinx System Generator, allowing for a combination of software-based simulation and hardware implementation using Xilinx FPGAs. </br>
 * `src/vivado-boards`: provides files specifically designed for the Artix-7 FPGA board. These files should be copied to the appropriate folder in the simulation environment to ensure compatibility with the Artix-7 FPGA board. </br>
 
+# FPGA Board </br>
+* [Arty A7-100T: Artix-7 FPGA Development Board](https://digilent.com/shop/arty-a7-100t-artix-7-fpga-development-board/)
 # Software Version </br>
 MathWorks MATLAB® and Simulink®: R2020a </br>
 Vivado: 2020.1 </br>
