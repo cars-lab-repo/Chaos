@@ -1,4 +1,7 @@
-# Update in progress
+# Reliable and secure memristor-based chaotic communication against eavesdroppers and untrusted foundries </br>
+
+# Contents </br>
+
 # Software Version </br>
 MathWorks MATLAB® and Simulink®: R2020a </br>
 Vivado: 2020.1 </br>
