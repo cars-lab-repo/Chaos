@@ -17,15 +17,15 @@ This repository consists of various components related to the research paper and
 * NI Multisim: 14.3 </br>
 
 # Usage </br>
-## LTSpice model of memristor based chaotic communication. </br>
+## 1. LTSpice model of memristor based chaotic communication. </br>
 1. Copy the `memristor.subckt` from `src/LTSpice/memristor.subckt` to specific directory on local system. You can use the steps as mentioned [here](https://spiceman.net/ltspice-subcircuit-model-add/). </br>
 2. Open the memristor based chau chaotic transmitter and receiver in LTSpice and run the program. </br>
 3. You will observe the Double scroll attractor for the circuit. Furthermore, you can also observe the input and output signals. </br>
 
-## NI Multisim files for chaotic communication. </br>
+## 2. NI Multisim files for chaotic communication. </br>
 1. Open the specific NI Multisim files from the directory `src/NI Multisim` to generate the output specific to the Figures in the research paper. </br>
    
-## Simulink model of chua based chaotic circuit. </br>
+## 3. Simulink model of chua based chaotic circuit. </br>
 The folder contains the simulink based simulation for various chaotic circuits.  </br>
 1. Use the file `fx_v_TxRx_n7_imprv_final.slx` to run the simulation using Xilinx System Generator. make use you have already integrated XSG with Matlab (refer this [tutorial](https://docs.xilinx.com/r/en-US/ug897-vivado-sysgen-user/Installation). </br>
 2. This will create a Library for hardware co-simulation.
