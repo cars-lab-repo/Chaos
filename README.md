@@ -1,4 +1,4 @@
-# Reliable and secure memristor-based chaotic communication against eavesdroppers and untrusted foundries </br>
+# Memristor-based Chaotic Communication Against Eavesdroppers and Untrusted Foundries </br>
 This repository consists of various components related to the research paper and source code.  </br>
 
 # Contents </br>
@@ -6,7 +6,7 @@ This repository consists of various components related to the research paper and
 * `src/LTSpice`: files to simulate metristor-based chaotic communication along with memristor model (memristor.subckt). </br>
 * `src/NI Multisim`: multisim version of the memristive chaotic communication. </br>
 * `src/Simulink`: directory contains MATLAB SIMULINK files. These files enable the simulation of the chaotic circuit based on Chua's equation. Additionally, the directory includes files for hardware co-simulation using Xilinx System Generator, allowing for a combination of software-based simulation and hardware implementation using Xilinx FPGAs. </br>
-* `src/vivado-boards`: provides files specifically designed for the Artix-7 FPGA board. These files should be copied to the appropriate folder in the simulation environment to ensure compatibility with the Artix-7 FPGA board. </br>
+* `src/vivado-boards`: provides files specifically designed for the Nexys A7 FPGA board. These files should be copied to the appropriate folder in the simulation environment to ensure compatibility with the Nexys A7 FPGA board. </br>
 
 # FPGA Board </br>
 * [Nexys A7: FPGA Trainer Board](https://digilent.com/shop/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/)
@@ -25,7 +25,7 @@ This repository consists of various components related to the research paper and
 ## 2. NI Multisim files for chaotic communication. </br>
 1. Open the specific NI Multisim files from the directory `src/NI Multisim` to generate the output specific to the Figures in the research paper. </br>
    
-## 3. Simulink model of chua based chaotic circuit. </br>
+## 3. Simulink model of Chua based chaotic circuit. </br>
 The folder contains the simulink based simulation for various chaotic circuits.  </br>
 1. Use the file `fx_v_TxRx_n7_imprv_final.slx` to run the simulation using Xilinx System Generator. make use you have already integrated XSG with Matlab (refer this [tutorial](https://docs.xilinx.com/r/en-US/ug897-vivado-sysgen-user/Installation)). </br>
 2. This will create a Library for hardware co-simulation.
