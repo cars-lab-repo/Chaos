@@ -1,7 +1,6 @@
 # Secure and Reliable Memristor-based Chaotic Communication </br>
 This repository contains various components related to the research papers and source codes of memristor-based chaotic communication against eavesdroppers and untrusted foundries.  </br>
-Rahul Vishwakarma & Amin Rezaei </br>
-
+[Rahul Vishwakarma](https://github.com/rahvis) & [Amin Rezaei](https://github.com/r3zaei) </br>
 
 # Contents </br>
 * `paper`: publihsed papers based on the source code.  </br>
